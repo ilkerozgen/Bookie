@@ -15,4 +15,4 @@ Tools That Are Used: \
 	- Java Swing Library\	
 	- Java AWT Library\
 	* Another library except Swing and AWT is not used in this application\
-	* A library or another tool is not used for a database\
+	* A library or another tool is not used for a database
