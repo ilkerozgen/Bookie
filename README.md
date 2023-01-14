@@ -14,5 +14,5 @@ Tools That Are Used: \
 	- IntelliJ Idea 2020.3.2\
 	- Java Swing Library\	
 	- Java AWT Library\
-	* Another library except Swing and AWT is not used in this application.\
-	* A library or another tool is not used for a database.\
+	* Another library except Swing and AWT is not used in this application\
+	* A library or another tool is not used for a database\
