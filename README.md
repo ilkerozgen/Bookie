@@ -8,7 +8,7 @@ in seperate classes using VS Code and IntelliJ Idea. Thirdly, the test classes a
 Lastly, all of these classes were put together and made arrangements so that they can interact between each other. 
 After debugging, a demo class was implemented and tested.
 
-Tools That Are Used: \
+Tools That Are Used:\
 	- Netbeans IDE 8.2\
 	- Visual Studio Code 15.0.1\
 	- IntelliJ Idea 2020.3.2\
