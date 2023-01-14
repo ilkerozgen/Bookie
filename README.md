@@ -1,5 +1,5 @@
 # Bookie
-Bookie is planned to be desktop application to exchange second-hand textbooks.  Inside the application, users will post a textbook and wait for a buyer in their local area  to reach them. After the seller has been contacted, they can decide on a price, and a meeting  place to trade the textbook.
+Description: Bookie is planned to be desktop application to exchange second-hand textbooks.  Inside the application, users will post a textbook and wait for a buyer in their local area  to reach them. After the seller has been contacted, they can decide on a price, and a meeting  place to trade the textbook.
 
 Code Organization: Firstly, the model classes like User and Listing class are coded. Then, these classes were put 
 together and made compatible with each other. Secondly, the view classes are designed in Netbeans IDE, using 
@@ -13,6 +13,6 @@ Tools That Are Used: \
 	- Visual Studio Code 15.0.1\
 	- IntelliJ Idea 2020.3.2\
 	- Java Swing Library\	
-	- Java AWT Library \
+	- Java AWT Library <br \>
 	* Another library except Swing and AWT is not used in this application\
 	* A library or another tool is not used for a database
